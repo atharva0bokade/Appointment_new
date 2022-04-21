@@ -1,0 +1,158 @@
+/* .infoStyle{
+    
+    position: absolute;
+    left: 37em;
+    top:13em;
+    background-color: rgb(153, 179, 202);
+    width:21em;
+    height:1em;
+    border-bottom-left-radius:1em ;
+    border-bottom-right-radius: 1em;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;        
+  
+  
+}
+#reason{
+    position: absolute;
+top:12em;
+width: 20em;
+left: 0.5em;
+}
+#email{
+    position: absolute;
+    top:9em;
+    width: 20em;
+    left: 0.5em;
+}
+#reason{
+    position: absolute;
+    top:14em;
+    width: 20em;
+    left: 0.5em;
+}
+#name{
+position: absolute;
+top:4em;
+width: 20em;
+left: 0.5em;
+}
+#name_text{
+    position: absolute;
+top:2em;
+width: 20em;
+left: 0.5em;
+}  
+#email_text{
+    position: absolute;
+top:7em;
+width: 20em;
+left: 0.5em;
+}
+#reason_text{
+    position: absolute;
+top:12em;
+width: 20em;
+left: 0.5em;
+}
+#sub_btn{
+    position: absolute;
+    top:14em;
+
+    left: 0.5em;
+
+   
+}
+#back{
+    position: absolute;
+    top:22em;
+
+    left: 0.5em;
+}      
+#info_text{
+    position: absolute;
+top:23em;
+
+left: 0.5em;
+}
+#time{
+    position: absolute;
+    left: 4em;
+}
+.infoStyle{
+
+    position: absolute;
+    left: 37em;
+    top:13em;
+    background-color: rgb(115, 218, 209);
+    width:21em;
+    height:17em;
+    border-bottom-left-radius:1em ;
+    border-bottom-right-radius: 1em;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;        
+  
+  
+} */
+.requests{
+    position: absolute;
+    width: 64em;
+    height: 20em;
+    left: 21em;
+    top: 15em;
+}
+#btn_req{
+    position: absolute;
+    left:60em;
+    bottom: 0.3em;
+}
+#btn_reqa{
+    position: absolute;
+    left:67em;
+    bottom: 0.3em;
+}
+#btn_req1{
+    position: absolute;
+    left:67em;
+    bottom: 0.3em;
+}
+#btn_reqr{
+    position: absolute;
+    left:67em;
+    bottom: 0.3em;
+}
+#btn_ref{
+    position: absolute;
+    top:16em;
+    left:57em;
+
+
+}
+#btn_ref1{
+    position: absolute;
+    top:20em;
+    left:25em;
+
+
+
+}
+#time{
+    position: absolute;
+    left: 15em;
+    top: -5em;
+    
+}
+#footer_text{
+    position: absolute;
+    left: 39%;
+    top: 25%;
+  }
+
+  .footer_custom{
+
+    position: absolute;
+    background-color: rgb(75, 170, 187);
+    width: 100%;
+    height:7%;
+    top: 95%;
+  }
